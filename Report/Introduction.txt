@@ -1,0 +1,8 @@
+Introduction
+
+Given the historical data provided on road accidents in Seattle, we seek to predict the probability of an accident based on different road and weather conditions.
+
+It is estimated that each year, over 1.5 million people lose their life due to road fatalities. These stem from many factors such as driving under the influence, vehicle failure, reckless driving, road conditions, freak accidents etc. During adverse weather conditions, there is a known increase in the probability of getting into a fatal accident, however, during good weather conditions the same probability is not directly correlated. 
+
+This information will be directly beneficial to the average road user or road users who travel during adverse weather conditions such as during heavy rainfall or snow. By being able to predict the likelihood of an accident during different weather, given the road condition, users will have a better understanding of the rick factors involved in their road journey which could save their life. 
+
